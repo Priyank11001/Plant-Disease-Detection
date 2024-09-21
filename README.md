@@ -71,7 +71,7 @@ The trained model and the Gradio UI have been deployed on **Hugging Face Spaces*
 ### Run Locally
 
 If you'd like to run this project locally:
-https://huggingface.co/spaces/username/Plant-Disease-Detection
+https://huggingface.co/spaces/Priyank1001/Plant-Disease-Detection
 
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
