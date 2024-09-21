@@ -1,14 +1,3 @@
----
-title: Plant Disease Detection
-emoji: 🚀
-colorFrom: blue
-colorTo: yellow
-sdk: gradio
-sdk_version: 4.44.0
-app_file: app.py
-pinned: false
-license: mit
----
 # 🌿 Plant Disease Detection
 
 This project implements a machine learning model for detecting diseases in plant leaves using the PlantVillage dataset. The model was trained multiple times to achieve high accuracy and provides a user-friendly interface via **Gradio**, which has been deployed on **Hugging Face Spaces**.
